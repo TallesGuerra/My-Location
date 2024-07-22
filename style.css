@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100dvh;
+
+    background-color: black;
+   
+    font-size: 1.6rem;
+}
+
+body h1{
+    margin-bottom: 2.0rem;
+
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+
+    font-size: 3.4rem;
+    color: #f5f1f1;
+}
+
+h2{
+    font-size: 2.0rem;
+    color: #b6b6b6;
+}
+
+#mapid {
+    margin-top: 3.0rem;
+
+    height: 50.0rem;
+    width: 80%;
+
+    border: solid 0.3erm #ccc;
+    border-radius: 1.0rem;
+}
