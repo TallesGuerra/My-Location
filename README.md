@@ -4,10 +4,6 @@
 
 <p align="center">Este projeto foi em uma serie de projetos do mês de Julho para prática e aperfeiçoamento do Javascript</p>
 
-<p align="center">
-  <img alt="preview" src="/img/preview.png" width="100%">
-</p>
-
 <br/>
 
 # 🔨 Funcionalidades do projeto
